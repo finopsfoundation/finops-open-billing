@@ -1,6 +1,6 @@
 # Scope
 
-The initial release [number, date] of the FinOps Open Billing specification will include the following:
+The initial release [number, date] of the FinOps Open Cost & Usage Specification (FOCUS) will include the following:
 Specifications: 
   - a Common Billing Format consisting of a list of all the dimensions and metrics a customer would use to analyze cloud cost and usage in aggregate. 
     This specification will be cloud neutral, service neutral, and vendor neutral.

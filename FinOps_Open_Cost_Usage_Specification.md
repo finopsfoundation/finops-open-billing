@@ -1,4 +1,4 @@
-# FinOps Open Billing Specification 1.0
+# FinOps Open Cost & Usage Specification 1.0
 
 Community Specifications are recommended to be drafted in accordance with international best practices.  Doing so provides clarity, helps adoption, and also eases the transition of this specification to other standards body if so desired.  Accordingly, the recommended template below is based on ISO standard drafting conventions.
 
